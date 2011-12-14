@@ -7,7 +7,7 @@
 Summary:	Class for parsing and handling URL
 Name:		php-pear-%{upstream_name}
 Version:	2.0.0
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	BSD
 Group:		Development/PHP
 URL:		http://pear.php.net/package/Net_URL2/
